@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "242193256335",
+    "firebase_url": "https://avigoauth.firebaseio.com",
+    "project_id": "avigoauth",
+    "storage_bucket": "avigoauth.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:242193256335:android:7708dc179284a67ab085fa",
+        "android_client_info": {
+          "package_name": "com.example.design10"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "242193256335-4gctjtd5u4qoq8ufgssqs2tbsrfoulaa.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.design10",
+            "certificate_hash": "0eeed2faee9166004ad2d5a778d1b4da479afbc8"
+          }
+        },
+        {
+          "client_id": "242193256335-87v6e5j88k9n2ea6ca9lnshst8mulhtd.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAazMclz2e-1TVlSwqJ281SQ8gU2cBWHEA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "242193256335-dk1ckvcgci57lggqh1su20rgutmilqug.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
